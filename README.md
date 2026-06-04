@@ -1,6 +1,6 @@
 # IoT Condition Monitoring Prototype
 Small embedded prototype for condition monitoring.
-
+ 
 The idea is simple: read a sensor value, filter it a little, compare it against limits, assign a status, and print a telemetry payload.
 
 This is not production code. It is only a basic example to show the logic I would normally start with before adapting it to real hardware.
