@@ -1,5 +1,3 @@
-# iot-condition-monitoring-prototype
-Embedded C/Arduino prototype for industrial IoT condition monitoring, sensor filtering, threshold evaluation, alerts, and telemetry payload generation.
 Small embedded prototype for condition monitoring.
 
 The idea is simple: read a sensor value, filter it a little, compare it against limits, assign a status, and print a telemetry payload.
