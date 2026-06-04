@@ -1,0 +1,9 @@
+{
+  "device_id": "edge-monitor-001",
+  "timestamp": "2026-06-04T12:00:00Z",
+  "raw_value": 82.4,
+  "filtered_value": 78.9,
+  "status": "WARNING",
+  "unit": "percent_of_nominal_range",
+  "firmware_version": "0.1.0"
+}
