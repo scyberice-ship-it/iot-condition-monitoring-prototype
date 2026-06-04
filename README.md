@@ -1,3 +1,4 @@
+# IoT Condition Monitoring Prototype
 Small embedded prototype for condition monitoring.
 
 The idea is simple: read a sensor value, filter it a little, compare it against limits, assign a status, and print a telemetry payload.
